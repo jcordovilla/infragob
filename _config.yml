@@ -1,0 +1,10 @@
+title: "Infraestructuras y Gobernanza"
+description: "Blog sobre gobernanza en infraestructuras"
+author: "José Cordovilla"
+url: "https://jcordovilla.github.io"
+baseurl: "/infragob"
+lang: es
+permalink: /:slug/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag

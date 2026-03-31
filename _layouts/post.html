@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% assign months = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+
+<article>
+  <h1>{{ page.title }}</h1>
+  <time datetime="{{ page.date | date: '%Y-%m-%d' }}">
+    {{ page.date | date: "%-d" }} de {{ months[m] }} de {{ page.date | date: "%Y" }}
+  </time>
+
+  {{ content }}
+
+  <nav class="post-nav">
+    {% if page.series %}
+      {% assign series_posts = site.posts | where: "series", page.series | sort: "series_part" %}
+      {% for sp in series_posts %}
+        {% if sp.series_part == page.series_part %}
+          {% assign prev_part = page.series_part | minus: 1 %}
+          {% assign next_part = page.series_part | plus: 1 %}
+          {% for prev in series_posts %}
+            {% if prev.series_part == prev_part %}
+              <a href="{{ prev.url | prepend: site.baseurl }}" class="nav-prev">&larr; {{ prev.title }}</a>
+            {% endif %}
+          {% endfor %}
+          {% for nxt in series_posts %}
+            {% if nxt.series_part == next_part %}
+              <a href="{{ nxt.url | prepend: site.baseurl }}" class="nav-next">{{ nxt.title }} &rarr;</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <a href="{{ site.baseurl }}/" class="nav-prev">&larr; Inicio</a>
+    {% endif %}
+  </nav>
+</article>

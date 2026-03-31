@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  {% seo %}
+</head>
+<body>
+  <header>
+    <div class="site-header">
+      <a href="{{ site.baseurl }}/" class="site-title">Infraestructuras y Gobernanza</a>
+      <nav>
+        <a href="{{ site.baseurl }}/">Inicio</a>
+        <span class="sep">|</span>
+        <a href="{{ site.baseurl }}/sobre-mi/">Sobre m&iacute;</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; Jos&eacute; Cordovilla</p>
+    <p class="archive-note">Archivo del blog <em>Infraestructuras y Gobernanza</em> (2019&ndash;2020)</p>
+    <p class="copyleft">Copyleft Jos&eacute; Cordovilla. Si copias o distribuyes informaci&oacute;n que aparece en este blog, con o sin modificaciones, debes atribuir al autor e igualmente traspasar la libertad para copiarlo y modificarlo.</p>
+  </footer>
+</body>
+</html>
