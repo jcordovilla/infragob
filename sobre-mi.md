@@ -6,17 +6,11 @@ slug: sobre-mi
 
 # Acerca de mí
 
-Soy José Cordovilla, y este es mi blog.
+Soy [José Cordovilla](https://www.linkedin.com/in/josecordovilla/). Ingeniero de Caminos, Canales y Puertos. Chartered Engineer ([ICE](https://www.ice.org.uk/), UK). Experto en infraestructuras y gestión pública.
 
-Ingeniero de Caminos, Canales y Puertos. Chartered Engineer ([ICE](https://www.ice.org.uk/), UK). Apasionado de las infraestructuras y la gobernanza, dedico la mayor parte de mi tiempo profesional a la financiación y gestión de infraestructuras, en particular en fórmulas de colaboración público-privada.
+Dedico mi carrera profesional a la financiación, gobernanza y gestión de infraestructuras, con especial atención a la colaboración público-privada. He asesorado a gobiernos en el desarrollo de PPPs y a empresas privadas en su ejecución y gestión, trabajando en países como Bahrein, Indonesia, Irán, México, Nicaragua, Panamá y Reino Unido, entre otros.
 
-Defensor de la buena gobernanza, la innovación y el pensamiento crítico, estoy comprometido con el ideal de hacer posibles infraestructuras beneficiosas y duraderas para nosotros y las generaciones venideras.
-
-Asesor de gobiernos en el desarrollo de PPPs y de empresas privadas en su ejecución y gestión. Recibí la medalla internacional de la Institution of Civil Engineers en 2016.
-
-Viajero empedernido, he trabajado en muchos países: Bahrein, Indonesia, Irán, México, Nicaragua, Panamá, Reino Unido, y otros cuantos.
-
-[LinkedIn](https://www.linkedin.com/in/josecordovilla/)
+Defensor de la buena gobernanza, la transparencia y el pensamiento crítico, estoy comprometido con el ideal de hacer posibles infraestructuras beneficiosas y duraderas para la sociedad.
 
 # Acerca de este blog
 

@@ -7,8 +7,8 @@ excerpt: "En vista de la incapacidad del modelo convencional de PPPs de cumplir 
 series: "PPPs en Crisis"
 series_part: 7
 ---
-
-Fotografía: Puente del Gran Manglar, Cartagena, Colombia. José Cordovilla (2018)
+![Puente del Gran Manglar, Cartagena, Colombia. José Cordovilla (2018)]({{ site.baseurl }}/assets/img/UF2_DER-022-Puente-Gran-Manglar.jpg)
+*Puente del Gran Manglar, Cartagena, Colombia. José Cordovilla (2018)*
 
 En vista de la incapacidad del modelo convencional de PPPs de cumplir su cometido, y habiendo analizado las dinámicas que condicionan sus resultados, podemos dibujar algunas cualidades y principios de gobernanza de un nuevo modelo. Un modelo más resiliente, transparente, funcional y adaptable a la realidad cambiante.
 
@@ -32,7 +32,7 @@ Agrupar elementos que tienen ciclos de vida, funcionalidad, economía, y conside
 
 Tecnologías como el blockchain están revelando posibilidades muy interesantes para garantizar homogeneidad, rigor y seguridad en relaciones contractuales, financieras y técnicas, eliminando además un gran número de intermediarios y sus costes asociados, lo que hasta el momento ha impedido por ejemplo a la adopción de PPPs en proyectos de pequeña escala. Este cambio de paradigma comienza con un cambio de mentalidad en el sector.
 
-![Elementos de buen gobierno en partenariados público-privados](https://infraestructurasygobernanza.com/wp-content/uploads/2019/05/11.-Principios-de-gobierno.png)
+![Elementos de buen gobierno en partenariados público-privados]({{ site.baseurl }}/assets/img/11.-Principios-de-gobierno.png)
 *Elementos de buen gobierno en partenariados público-privados*
 
 Una posible evolución natural del modelo actual de PPP sería hacia una participación más intensa del sector privado en infraestructuras o elementos cuya vida útil sea más corta y que tengan un impacto directo en la eficiencia del servicio, más compatibles con la naturaleza de corto y medio plazo del sector privado. El socio público, por otro lado, podría asumir aquellas que tienen vidas útiles muy largas (y por tanto responsabilidad intergeneracional) y que cuentan con menos recorrido para las ganancias de eficiencia, o bien allí donde la eficiencia no sea cuestión de primer orden. En este paso previo de diseño de la estructura óptima de la PPP se deben también considerar las externalidades (positivas y negativas) y la creación o destrucción de valor intangible como es la reputación o la legitimidad del servicio y del sector.

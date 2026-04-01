@@ -6,6 +6,7 @@ slug: el-plan-es-que-no-hay-plan
 excerpt: "Si te preguntas cuál es el plan de infraestructuras de España, la respuesta es que no hay plan. Explico por qué y qué necesita un buen plan."
 ---
 
+![Fotografía: Hans-Peter Gauster en Unsplash]({{ site.baseurl }}/assets/img/El-plan-no-hay-Plan-featured.jpg)
 *Fotografía: Hans-Peter Gauster en Unsplash*
 
 El otro día leía sobre la jornada Sector Ferroviario: Liberalización y Mercados Internacionales, organizada por El País Economía y CincoDías. El ministro de Fomento en funciones anunció que [se prorroga hasta octubre el plazo](https://cincodias.elpais.com/cincodias/2019/06/19/companias/1560941971_801758.html) para que los operadores privados ferroviarios de pasajeros soliciten su entrada al mercado nacional. Además el ministro anunció el cambio de nombre del Ministerio de Fomento: pasará a llamarse Ministerio de Transporte, Movilidad y Agenda Urbana.
@@ -22,6 +23,7 @@ Hay determinadas ideas y aspiraciones, como las que se describen en las [Líneas
 - Un mecanismo claro de control y evaluación de resultados: ¿cómo sabemos si se está o no ejecutando bien el plan?
 - Un plan de contingencia: ¿qué hacemos si las cosas no salen como teníamos planeado?
 
+![¿De verdad tengo todas estas infraestructuras?]({{ site.baseurl }}/assets/img/El-plan-no-hay-Plan-roulette.jpg)
 *¿De verdad tengo todas estas infraestructuras? Foto: Rick Mason en Unsplash*
 
 Teniendo unos profesionales sobradamente capaces tanto en el sector público como en el privado y unas herramientas tecnológicas espectaculares, cuesta entender cómo hemos llegado a este punto. La cuestión es que sin un buen plan no habrá buenos resultados nunca, y por mucho que cueste dejar de lado las urgencias del día a día hay que dedicarle atención prioritaria al largo plazo y acordar un plan a la altura de nuestra calidad como sociedad y nuestra aspiración como país.
@@ -36,6 +38,7 @@ No estamos solos. España, como le ocurre a muchos países, no conoce con precis
 
 Sí sabemos que las infraestructuras [se están depreciando a gran velocidad](https://cincodias.elpais.com/cincodias/2019/04/11/companias/1554988787_882693.html) por falta de inversión.
 
+![El presidente de AIReF, José Luis Escrivá]({{ site.baseurl }}/assets/img/El-plan-no-hay-Plan-E0911.png)
 *El presidente de AIReF, José Luis Escrivá, en la Jornada de la Fundación Caminos en abril de 2018. Foto: AIReF*
 
 La Autoridad Independiente de Responsabilidad Fiscal AIReF ya [señalaba en 2018](https://www.airef.es/es/noticias/jose-luis-escriva-participa-en-el-ciclo-con-las-instituciones-de-regulacion-del-colegio-superior-de-ingenieros-de-caminos/) que el stock de capital público en España es muy elevado, situándose por encima de la media europea. Esto obliga a que la inversión bruta vaya destinada a mantenimiento y amortizaciones, dejando poco espacio para la nueva inversión neta.
@@ -50,6 +53,7 @@ Para una mejor idea de lo que hablamos cuando hablamos del riesgo inherente a la
 
 No hay fórmula mágica, pero sí tenemos modelos que apuntan a las buenas prácticas. En Estados Unidos, la American Society of Civil Engineers elabora cada cuatro años un [informe de evaluación de las infraestructuras del país](https://www.infrastructurereportcard.org/), que cuenta con amplia difusión mediática y es una de las referencias principales en los foros sectoriales y políticos.
 
+![Infraestructura de EEUU. Fuente: ASCE Infrastructure Scorecard 2017]({{ site.baseurl }}/assets/img/El-plan-no-hay-Plan-ASCE-Scorecard.png)
 *La infraestructura de EEUU saca un aprobado raspado. Fuente: ASCE Infrastructure Scorecard 2017*
 
 En Reino Unido, la Institution of Civil Engineers algo similar cada año, elaborando un [informe independiente](https://www.ice.org.uk/news-and-insight/policy/state-of-the-nation-2018-infrastructure-investment) sobre el estado de las infraestructuras cuyas conclusiones y recomendaciones se presentan en el parlamento y en los medios de comunicación.
@@ -76,6 +80,7 @@ El PITVI dice textualmente: "*se instrumentará, de forma paralela a su desarrol
 - Ningún indicadores del Observatorio permite valorar la efectividad y la eficiencia de la administración y el resto de actores involucrados en la ejecución del plan.
 - En los pocos indicadores que permitirían hacer una aproximación lejana al grado de cumplimiento del plan, como por ejemplo el *3.1.2 Evolución Comparada de la Inversión, el VAB (valor agregado bruto) y la demanda de transporte*, solo se dispone de datos hasta el 2016, en totales por modalidad (sin detalle por proyecto ni programa) y en PDF.
 
+![Evolución comparada del stock de infraestructura]({{ site.baseurl }}/assets/img/El-plan-no-hay-Plan-OTLE.png)
 *Indicador 3.1.2: Evolución comparada del stock de infraestructura, el VAB y la demanda de transporte. Fuente: OTLE*
 
 Un verdadero Plan ha de dar respuestas a las preguntas que determinan su éxito como "empresa nacional", en el más amplio sentido de la palabra, como por ejemplo:

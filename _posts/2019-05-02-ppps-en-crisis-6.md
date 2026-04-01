@@ -7,8 +7,8 @@ excerpt: "Hay un tercer argumento que frecuentemente queda en un lugar secundari
 series: "PPPs en Crisis"
 series_part: 6
 ---
-
-Fotografía: Parking Centro Hospitalario Pamplona. José Cordovilla (2016)
+![Parking Centro Hospitalario Pamplona. José Cordovilla (2016)]({{ site.baseurl }}/assets/img/Parking-Centro-Hospitalario-Pamplona-1.jpg)
+*Parking Centro Hospitalario Pamplona. José Cordovilla (2016)*
 
 Los argumentos económico-financiero (atracción de capital para infraestructuras) y técnico (servicios más eficientes y fiables) son los más explícitos, evidentes y poderosos en el discurso sobre las ventajas de la PPP. Hay un tercer argumento que frecuentemente queda en un lugar secundario en el debate, pero que tiene una relevancia mucho mayor en el resultado a el largo plazo: la capacidad de la PPP para generar beneficios de forma sostenible para todas las partes interesadas.
 
@@ -28,7 +28,7 @@ En Irlanda, por ejemplo, tras el estallido de la crisis financiera del 2008 y el
 
 En lugar de centrarse en construir la enorme estructura de procedimientos y documentos necesaria para una PPP, el socio público debe esforzarse primero en diseñar y llevar a cabo un programa de recursos humanos y materiales que sostenga el plan de infraestructuras, asegurando la captación, formación y retención de profesionales capaces y comprometidos. Un sector público capaz es condición necesaria para una PPP exitosa.
 
-![Factores que erosionan el principio de beneficios comunes a largo plazo](https://infraestructurasygobernanza.com/wp-content/uploads/2019/05/10.-Erosion-del-tercer-pilar.png)
+![Factores que erosionan el principio de beneficios comunes a largo plazo]({{ site.baseurl }}/assets/img/10.-Erosion-del-tercer-pilar.png)
 *Factores que erosionan el principio de beneficios comunes a largo plazo*
 
 Otro gran obstáculo para la sostenibilidad de la colaboración es la pérdida de confianza y compromiso entre las partes. Las dinámicas de erosión de estas "cimentaciones" de las PPPs son diversas y algunas se han mencionado en párrafos anteriores. Otras causas mucho más sutiles y poderosas son las relacionadas con la comunicación y el lenguaje. **La terminología opaca y tecnocráctica de las PPPs tradicionales es, en sí, un obstáculo a la colaboración.** El uso de un lenguaje más claro, sencillo y directo para comunicar las intenciones, los objetivos, las responsabilidades y los derechos de las partes, incluyendo usuarios, contribuyentes y otros grupos de interés, es inexistente en el universo actual de las PPPs.

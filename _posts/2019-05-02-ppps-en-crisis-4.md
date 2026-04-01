@@ -7,8 +7,8 @@ excerpt: "El principal y más poderoso motivo por el que los gobiernos se intere
 series: "PPPs en Crisis"
 series_part: 4
 ---
-
-[Fotografía: Carlsbad Desalination Plant. George J Janczyn (2016) ](https://groksurf.com/2016/02/23/carlsbad-desalination-plant-tour-photos/)
+![Carlsbad Desalination Plant. George J Janczyn (2016)]({{ site.baseurl }}/assets/img/Carlsbad-Desal-Plant-California.jpg)
+*Carlsbad Desalination Plant. George J Janczyn (2016)*
 
 El principal y más poderoso motivo por el que los gobiernos se interesan por el modelo PPP es la captación de mayores recursos financieros para financiar obras públicas, sobre la premisa de que se conseguirán más infraestructuras sin aumentar la deuda pública.
 
@@ -26,7 +26,7 @@ Un ejemplo manifiesto de gestión pública cuestionable del riesgo operacional l
 
 Por otra parte, muchos de los elementos más costosos de las infraestructuras tienen vidas útiles largas, llegando a estar por encima de los 50 años (por ejemplo, los terraplenes de las autopistas). La contabilidad de estos activos se realiza en la práctica con tasas de amortización acelerada, que resultan en períodos de amortización mucho más cortos que los de deterioro físico real y permiten una reducción de la base imponible del impuesto de sociedades. Conviene además recordar que las sociedades vehículo con frecuencia se articulan mediante complejas estructuras societarias y flujos de capital a través de filiales en paraísos fiscales. Estas grandes operaciones financieras son susceptibles por tanto de contribuir a la erosión de la base imponible y traslado de beneficios, que debilita sensiblemente la capacidad de conseguir un objetivo fundamental de la PPP: la creación de valor público.
 
-![Factores que erosionan el principio de captación de recursos adicionales](https://infraestructurasygobernanza.com/wp-content/uploads/2019/05/8.-Erosion-del-primer-pilar.png)
+![Factores que erosionan el principio de captación de recursos adicionales]({{ site.baseurl }}/assets/img/8.-Erosion-del-primer-pilar.png)
 *Factores que erosionan el principio de captación de recursos adicionales*
 
 Un caso notable es el de Thames Water, la empresa privada que gestiona el suministro de agua y el alcantarillado de Londres, y que se ha visto envuelta en enormes controversias por [haber repartido grandes dividendos a sus sucesivos accionistas mientras la calidad del servicio se ha reducido](https://www.ft.com/content/5413ebf8-24f1-11e7-8691-d5f7e0cd0a16) y la [deuda financiera ha aumentado enormemente](https://www.ft.com/content/61bd8f0a-9181-11e7-bdfa-eda243196c2c), a pesar de los sofisticados mecanismos de control del regulador público. Recordemos que en el Reino Unido se llevó a cabo en la década de los ochenta la privatización de las empresas responsables del suministro de agua y alcantarillado urbano, estableciendo un ente regulador independiente, [OFWAT](https://www.ofwat.gov.uk/), que establece los objetivos de calidad del servicio, las estructuras de tarifas, los requisitos de inversión y los límites de rentabilidad de estos operadores.

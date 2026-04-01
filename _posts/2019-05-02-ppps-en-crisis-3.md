@@ -7,8 +7,8 @@ excerpt: "El modelo convencional de PPP es el resultado de la evolución de las 
 series: "PPPs en Crisis"
 series_part: 3
 ---
-
-[Fotografía: Interior del nuevo Aeropuerto de Bogotá en 2013. Felipe Restrepo Acosta ](https://commons.wikimedia.org/wiki/File:Aeropuerto_Bogot%C3%A1.JPG)
+![Interior del nuevo Aeropuerto de Bogotá en 2013. Felipe Restrepo Acosta]({{ site.baseurl }}/assets/img/Aeropuerto-Bogota.jpg)
+*Interior del nuevo Aeropuerto de Bogotá en 2013. Felipe Restrepo Acosta*
 
 El modelo convencional de PPP, como se comentó antes, es el resultado de la evolución de las políticas de infraestructuras y desarrollo de determinados países, y que las instituciones multilaterales han fomentado, adaptado y recogido en una especie de "cúmulo de conocimiento" que ha adquirido un avanzado grado de madurez teórica y práctica, como se recoge en [la iniciativa PPP Knowledge Lab](https://pppknowledgelab.org/).
 
@@ -18,7 +18,7 @@ Los beneficios anunciados por los defensores del modelo tradicional de PPP son m
 2. Creación de valor público a corto plazo a través de un adecuado reparto de riesgos entre el socio público y el privado, que asegura que la asignación de recursos y de responsabilidades es eficiente para todas las partes;
 3. Creación de valor público a largo plazo mediante la consolidación de fórmulas de colaboración con el sector privado que mejoran la capacidad organizativa y de gestión del sector público, el intercambio de conocimientos, el fomento de la actividad económica y en última instancia el bienestar social de los beneficiarios.
 
-![Pilares del modelo de PPP convencional](https://infraestructurasygobernanza.com/wp-content/uploads/2019/05/6.-Diagrama-Pilares-1024x719.png)
+![Pilares del modelo de PPP convencional]({{ site.baseurl }}/assets/img/6.-Diagrama-Pilares-1024x719.png)
 *Pilares del modelo de PPP convencional*
 
 No existe una única definición de PPP -y es difícil que la haya, dada la amplitud y variedad de los problemas que abarca. En la práctica, sin embargo, sí existen una serie de características que identifican una PPP convencional de forma más o menos clara, que son:
@@ -38,7 +38,7 @@ Según el pensamiento convencional sobre PPPs, estos principios deberían ser su
 
 En el centro de esta disfuncionalidad está la complejidad del sistema en el que se insertan las infraestructuras: un sistema cada vez más numeroso, más interdependiente, más dinámico, menos lineal, menos jerárquico, más demandante y más impredecible. Los ciudadanos demandan más y mejores soluciones de infraestructuras para problemas -sean reales o no, ya que desde el punto de vista de satisfacción del ciudadano la diferencia llega a ser irrelevante- derivados de esta misma complejidad, que en el caso de las ciudades se agudiza.
 
-![Teoría y realidad de las PPPs. Destacamos las múltiples interdependencias en la realidad.](https://infraestructurasygobernanza.com/wp-content/uploads/2019/05/7.-SIMPLE-VS-COMPLEJO.png)
+![Teoría y realidad de las PPPs. Destacamos las múltiples interdependencias en la realidad.]({{ site.baseurl }}/assets/img/7.-SIMPLE-VS-COMPLEJO.png)
 *Teoría y realidad de las PPPs. Destacamos las múltiples interdependencias en la realidad.*
 
 Analizaré en los siguientes capítulos en detalle el contraste entre la teoría y la realidad de los tres grandes argumentos del modelo convencional de PPPs: i) [mayor captación de recursos financieros]({{ site.baseurl }}/ppps-en-crisis-4/), ii) [mayor eficiencia]({{ site.baseurl }}/ppps-en-crisis-5/) en la provisión del servicio; y iii) [mayores beneficios a largo plazo]({{ site.baseurl }}/ppps-en-crisis-6/) gracias a la colaboración e intercambio de experiencia entre las partes.

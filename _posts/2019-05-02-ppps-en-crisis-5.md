@@ -7,8 +7,8 @@ excerpt: "El segundo pilar de las PPPs es la introducción de mayor eficiencia y
 series: "PPPs en Crisis"
 series_part: 5
 ---
-
-[Fotografía: Penang, Malaysia: Cranes of Penang Harbour by CEphoto, Uwe Aranas (2014) ](https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Harbour-cranes-01.jpg)
+![Penang, Malaysia: Cranes of Penang Harbour by CEphoto, Uwe Aranas (2014)]({{ site.baseurl }}/assets/img/Penang_Malaysia_Harbour-cranes-01.jpg)
+*Penang, Malaysia: Cranes of Penang Harbour by CEphoto, Uwe Aranas (2014)*
 
 El segundo pilar de las PPPs es la introducción de mayor eficiencia y fiabilidad en la construcción de la infraestructura y en la gestión del servicio por parte del sector privado, esperados como resultado a corto y medio plazo (conocidos como "outputs" en inglés). La mayor eficiencia, sin embargo, no es inherente al sector privado, sino a los mecanismos que hacen posible la alineación de intereses y capacidades de las partes.
 
@@ -26,7 +26,7 @@ Los costes de transacción (gastos de planificación, preparación contratación
 
 De ahí que muchos gobiernos opten por la agregación de proyectos ("bundling") para hacerlos más atractivos al mercado. Pero no es el tamaño de la infraestructura lo que aporta valor social y económico, sino el cumplimiento de los requisitos de funcionalidad y calidad del servicio.
 
-![Factores que erosionan el principio de captación de mayor eficiencia](https://infraestructurasygobernanza.com/wp-content/uploads/2019/05/9.-Erosion-del-segundo-pilar.png)
+![Factores que erosionan el principio de captación de mayor eficiencia]({{ site.baseurl }}/assets/img/9.-Erosion-del-segundo-pilar.png)
 *Factores que erosionan el principio de captación de mayor eficiencia*
 
 Volviendo al ejemplo anterior de los terraplenes de autopistas, no es su construcción en masa lo que requiere de deuda y eficiencias privadas para generar valor público, sino las combinaciones de innovación técnica y financiera que pueda traer el sector privado para garantizar unas condiciones sostenidas de comodidad y seguridad en la circulación. Combinar elementos de alta y baja eficiencia en una sola estructura contractual de financiación más costosa es otro de los círculos viciosos que perpetúan la disfuncionalidad del modelo. **El criterio de escala no garantiza las ganancias de eficiencia**, y en muchos casos de hecho, las desincentiva por mezclar dimensiones distintas del problema.

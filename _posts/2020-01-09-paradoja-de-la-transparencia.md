@@ -6,6 +6,7 @@ slug: paradoja-de-la-transparencia
 excerpt: "La clave de una buena política de infraestructuras es la transparencia, porque la transparencia es la base de la gobernanza."
 ---
 
+![La paradoja de la transparencia]({{ site.baseurl }}/assets/img/La-paradoja-transparencia-featured.jpg)
 *La transparencia como base de la gobernanza*
 
 Han pasado ya varias semanas desde [el último artículo]({{ site.baseurl }}/financiar-vs-costear/) de Infragob, en el que te hablaba sobre la importante diferencia entre financiar y costear las infraestructuras. Esta cuestión es cada vez más relevante, vista la escasa popularidad que tiene hoy en día el "pago por uso" o peaje en las infraestructuras.
@@ -22,6 +23,7 @@ Y entonces me pregunto: ¿qué información tenemos los contribuyentes para juzg
 
 Lamentablemente, esta información no está disponible [en la web de Fomento,](https://www.fomento.gob.es/) ni en [el insufrible BOE](https://www.boe.es/), ni en el [portal de transparencia](https://transparencia.gob.es/) de la administración del Estado, ni en ningún otro lugar fácilmente accesible a los españoles que vamos a cargar con el coste de esa decisión. Te invito a comprobar esta triste realidad por ti mismo. En algunos casos, como sucede con las radiales, el Ministerio incluso [se niega a compartir los estudios](https://www.lainformacion.com/empresas/abalos-se-niega-publicar-datos-typsa-avalaron-rebaja-peajes/6510199/) que justifican decisiones de gran relevancia, sin que haya motivos de seguridad nacional que lo impidan.
 
+![No busques]({{ site.baseurl }}/assets/img/La-paradoja-transparencia-no-busques.png)
 *No busques. La información más relevante para tus impuestos no está ahí.*
 
 **La clave de una buena política de infraestructuras es la transparencia**, porque la transparencia es la base de la gobernanza. La transparencia permite hacer un buen diagnóstico de las necesidades y una buena definición de los objetivos. Permite tomar decisiones con buen criterio sobre la mejor forma de financiar, costear y operar infraestructuras que son estratégicas para nosotros y para las generaciones venideras. Ser más transparente en el análisis obliga a poner más el foco en el problema real, y menos en nosotros mismos.
@@ -32,6 +34,7 @@ Para el sector privado -inversores, financiadores, empresas de la cadena de sumi
 
 Por último y no menos importante, la transparencia permite que todos los interesados puedan opinar o participar, y cuando menos sentirse informados y respetados, lo que refuerza la legitimidad del modelo territorial y de administración pública.
 
+![¿La transparencia me hace más débil?]({{ site.baseurl }}/assets/img/La-paradoja-transparencia-cuerpo.png)
 *¿La transparencia me hace más debil? Depende de cómo la use, y para qué.*
 
 Pero resulta que hay un problema con la transparencia: lo que vengo a llamar "la paradoja de la transparencia". En nuestra mente, a nivel consciente y sobre todo subconsciente, la cuestión de la transparencia nos produce una reacción ambigua de atracción y aversión. Una especie de recelo que nos transmite el mensaje: "Sí, sí, la transparencia está muy bien, es un ideal muy noble, pero... ¿conviene que se sepa esta información que yo considero tan valiosa? ¿No me estaré arriesgando al desvelar esta información? ¿Aprovechará alguien la información para tomar ventaja sobre mí o incluso perjudicarme? ¿Desvelar información me hace más vulnerable?".
@@ -60,6 +63,7 @@ El miedo a la pérdida de la ventaja competitiva cuando se comparte información
 
 A medida que aumentan la movilidad y la comunicación y se generan más datos, están aumentando la complejidad y la dificultad de estar al día, de entender lo que está pasando y cómo está cambiando la realidad. Esto es especialmente cierto en las infraestructuras, que son sistemas muy complejos. El riesgo de qué ocurrirá si se comparten los datos no es nada comparado con el riesgo de qué puede ocurrir si no se comparten. El principal riesgo al que se enfrentan las empresas y las instituciones en el sector de las infraestructuras es la disrupción descontrolada. Por eso es fundamental que se desarrollen los mecanismos y las reglas que permitan que la información importante sobre infraestructuras esté disponible, se comparta y se use.
 
+![Ciudades inteligentes]({{ site.baseurl }}/assets/img/La-paradoja-transparencia-smart-cities.jpg)
 *¿Ciudades inteligentes? No, gracias. Mejor ciudades abiertas y gestionadas transparentemente.*
 
 En un momento en el que se habla y se fantasea constantemente sobre las ciudades inteligentes, [cuando en realidad estamos lejos de que sean técnicamente viables](https://theodi.org/article/smart-cities-are-decades-away-but-open-cities-are-in-reach?mc_cid=8549ace31a&mc_eid=54ed53a858), **nos conviene centrarnos mucho más en que nuestras ciudades y nuestras comunidades sean abiertas y se gestionen con transparencia**, de forma que se entiendan claramente las dimensiones del problema de la sostenibilidad y dediquemos nuestro trabajo a resolver los verdaderos problemas de fondo, que son sociales y medioambientales, y no tecnológicos. De esta forma, conseguiremos no solo alinear la tecnología con nuestros objetivos más importantes, sino además reforzar los instrumentos de gobierno que hacen posible que se consigan.

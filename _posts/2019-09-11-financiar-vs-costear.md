@@ -6,6 +6,7 @@ slug: financiar-vs-costear
 excerpt: "Costear no es lo mismo que financiar. Entender la diferencia es esencial para garantizar la sostenibilidad de las infraestructuras."
 ---
 
+![Fotografía: Christian Wiediger en Unsplash]({{ site.baseurl }}/assets/img/Financiar-vs-Costear-featured.jpg)
 *Fotografía: Christian Wiediger en Unsplash*
 
 Si trabajas en el campo de la financiación de infraestructuras, probablemente estás acostumbrado a la jerga financiera en inglés, con "palabros" como *project finance*, *equity*, *lenders*, *bankability* o el famoso *PPP* (siglas de *public-private partnership*).
@@ -20,12 +21,14 @@ La diferenciación que hace el inglés de estos dos términos no tiene un equiva
 
 ## Ejemplo 1: mi casa.
 
+![Hogar, dulce hogar]({{ site.baseurl }}/assets/img/Financiar-vs-Costear-house.jpg)
 *Hogar, dulce hogar. Costeado por mí. Fotografía: Tierra Mallorca en Unsplash*
 
 Compro una casa con un préstamo hipotecario. La financiación la da el banco que otorga el préstamo. La casa la costeo yo, por una parte con la entrada que doy de mi bolsillo, por otra con los pagos mensuales al banco para devolver el capital prestado para comprarla (que sumado a la entrada es el **coste de inversión**) y los intereses (**coste de financiación**) y por otra costeando los gastos que surgirán a lo largo de los años, como facturas y obras de reparación y renovación (**coste de operación y mantenimiento**).
 
 ## Ejemplo 2: una autopista.
 
+![Autopista, dulce autopista. La AP-7, costeada por los usuarios]({{ site.baseurl }}/assets/img/Financiar-vs-Costear-Peaje.jpg)
 *Autopista, dulce autopista. La AP-7, costeada por los usuarios. Foto: Wikimedia Commons (2007)*
 
 Se necesita construir una autopista entre dos ciudades. El gobierno -en el cual los ciudadanos han delegado para la cuestión de qué infraestructuras se construyen, cómo se financian y cómo se costean- decide sacar a concurso un contrato para que una empresa privada la construya, la gestione y la mantenga durante 25 años, a cambio de cobrar el peaje que los usuarios pagarán. La empresa pide un préstamo al banco, pone de su bolsillo otra parte (los fondos propios, el equivalente a la entrada del ejemplo 1) y contrata a una constructora, que hace la obra y se la entrega lista para usar. La autopista la financia el banco -en su mayor parte. La empresa usará el dinero recaudado en peajes para pagar: i) el capital prestado al banco (que junto con la entrada es el **coste de inversión**), ii) los intereses del préstamo y el beneficio de la empresa que arriesgó dinero de su bolsillo (**coste de financiación**), y iii) los medios para gestionar y mantener la autopista durante los 25 años, incluyendo obras de mantenimiento (**coste de operación y mantenimiento**).

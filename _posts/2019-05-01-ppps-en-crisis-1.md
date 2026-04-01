@@ -7,8 +7,8 @@ excerpt: "La provisión de infraestructuras es una tarea de primer orden para cu
 series: "PPPs en Crisis"
 series_part: 1
 ---
-
-[Fotografía: Convoy del Metro de Málaga en el Bulevar Louis Pasteur. Miwipedia (2014) ](https://es.wikipedia.org/wiki/Archivo:Metro_M%C3%A1laga_Cerca_Estaci%C3%B3n_Universidad.jpg)
+![Convoy del Metro de Málaga en el Bulevar Louis Pasteur. Miwipedia (2014)]({{ site.baseurl }}/assets/img/Metro-Malaga.jpg)
+*Convoy del Metro de Málaga en el Bulevar Louis Pasteur. Miwipedia (2014)*
 
 La provisión de infraestructuras es una tarea de primer orden para cualquier administración pública responsable del desarrollo y el bienestar de un territorio. No hay duda sobre el valor ni la importancia que tienen las infraestructuras como elemento vertebrador de la vida de las personas, las comunidades, los negocios, las instituciones y el medio ambiente.
 
