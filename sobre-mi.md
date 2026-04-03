@@ -6,18 +6,14 @@ slug: sobre-mi
 
 # Acerca de mí
 
-Soy [José Cordovilla](https://www.linkedin.com/in/josecordovilla/). Ingeniero de Caminos, Canales y Puertos. Chartered Engineer ([ICE](https://www.ice.org.uk/), UK). Experto en infraestructuras y gestión pública.
+Soy [José Cordovilla](https://www.linkedin.com/in/josecordovilla/). Ingeniero de Caminos, Canales y Puertos. Chartered Engineer ([ICE](https://www.ice.org.uk/), UK). 26 años trabajando en financiación, gobernanza y gestión de infraestructuras en 34 países.
 
-Dedico mi carrera profesional a la financiación, gobernanza y gestión de infraestructuras, con especial atención a la colaboración público-privada. He asesorado a gobiernos en el desarrollo de PPPs y a empresas privadas en su ejecución y gestión, trabajando en países como Bahrein, Indonesia, Irán, México, Nicaragua, Panamá y Reino Unido, entre otros.
-
-Defensor de la buena gobernanza, la transparencia y el pensamiento crítico, estoy comprometido con el ideal de hacer posibles infraestructuras beneficiosas y duraderas para la sociedad.
+He asesorado a bancos multilaterales (ADB, Banco Mundial, IFC, BEI), fondos de infraestructuras y gobiernos en PPPs, due diligence técnica y supervisión de concesiones. Fundé y dirigí [Solvere](https://www.linkedin.com/company/solvere-infrastructure-consulting/), una consultora boutique especializada en PPPs (2010-2021). Actualmente soy Director de Consultoría de Infraestructuras en [TYPSA](https://www.typsa.com/).
 
 # Acerca de este blog
 
-Escribo este blog para compartir ideas, opiniones, reflexiones, relatos y comentarios sobre infraestructuras y otras cuestiones complejas que nos afectan bastante, a los individuos por supuesto pero sobre todo a la colectividad, de formas generalmente poco evidentes.
+Las infraestructuras son un sistema de sistemas: técnico, financiero, político, institucional. Lo que más importa en ese sistema ---con diferencia--- son las personas, los intereses y las reglas del juego. Esto es, en el fondo, lo que llamamos gobernanza.
 
-En mis años de experiencia profesional he aprendido que las infraestructuras son la columna vertebral de la sociedad moderna, que es un sistema extremadamente complejo. Y en este gran sistema lo que más importa ---con diferencia--- son las personas, los intereses y las reglas del juego que establecemos para hacer realidad las infraestructuras. Esto es, en el fondo, lo que se resume como "gobernanza".
+Algo tan complejo, costoso y de largo plazo se presta a malentendidos, cuando menos, y frecuentemente a la manipulación y al despropósito. Mi opinión subjetiva es que con rigor, paciencia y unas gafas de sistemas complejos podemos entender bastante mejor cómo funcionan y cómo fallan las infraestructuras, y actuar en consecuencia.
 
-Algo tan complejo, trascendente, costoso y de largo plazo como las infraestructuras se presta a muchos malentendidos, cuando menos, y frecuentemente a la manipulación y al despropósito. Afortunadamente, con un poco de paciencia, humildad, rigor y unas gafas de observar sistemas complejos podemos entender un poco mejor cómo funcionan y cómo fallan las infraestructuras, y actuar en consecuencia.
-
-Este blog es mi forma de compartir lo mucho o lo poco que he aprendido y aprendo sobre infraestructuras y otros temas relacionados.
+Escribo este blog para eso: pensar en voz alta, cuestionar lo que se da por sentado y profundizar en lo que merece la pena.
