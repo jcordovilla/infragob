@@ -11,6 +11,9 @@ I write about infrastructure governance, public-private partnerships and transpa
 
 <dl class="article-list">
 
+  <dt><span class="post-date">3 abril 2026</span> <a href="{{ site.baseurl }}/el-dilema-de-la-reversion/">El dilema de la reversión</a> <span class="lang-tag lang-es">Español</span></dt>
+  <dd>Cuando una concesión entra en su fase final, la Administración se enfrenta a una decisión que revela su filosofía de gestión. En 2026, más de 1.000 km de autopistas españolas vuelven a gestión pública sin análisis objetivo alguno.</dd>
+
   <dt><span class="post-date">17 marzo 2026</span> <a href="https://www.linkedin.com/pulse/african-countries-have-advantage-future-roads-should-use-cordovilla-cbpxe/" class="external" target="_blank" rel="noopener">African countries have an advantage for the future of their roads. They should use it</a> <span class="badge">LinkedIn</span> <span class="lang-tag lang-en">English</span></dt>
   <dd>35 African countries have dedicated Road Funds. Most developed countries don't. The problem is governance, not money.</dd>
 
