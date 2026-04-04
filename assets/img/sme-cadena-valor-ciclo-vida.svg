@@ -1,0 +1,143 @@
+<svg viewBox="0 0 880 580" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Georgia, 'Playfair Display', serif; font-size: 21px; font-weight: 700; fill: #1e2640; }
+      .subtitle { font-family: Georgia, 'Playfair Display', serif; font-size: 15px; font-weight: 400; fill: #1e2640; }
+      .label-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 13px; font-weight: 600; fill: #1e2640; }
+      .body-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 12px; font-weight: 400; fill: #4a5568; }
+      .accent-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 12px; font-weight: 600; fill: #00b764; }
+      .threat-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 12px; font-weight: 600; fill: #8b3a3a; }
+      .pill { fill: #ffffff; }
+    </style>
+    <filter id="pill-shadow" x="-5%" y="-10%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="880" height="580" fill="#e8e6e3" rx="0"/>
+
+  <!-- Title -->
+  <text x="440" y="40" class="title" text-anchor="middle">De las transacciones al valor de ciclo de vida</text>
+
+  <!-- ===== TOP: Traditional Model ===== -->
+  <text x="440" y="78" class="subtitle" text-anchor="middle" fill="#8a8a8a">El modelo transaccional</text>
+
+  <!-- Step 1 -->
+  <g filter="url(#pill-shadow)">
+    <rect x="80" y="95" width="200" height="72" rx="20" class="pill"/>
+    <text x="180" y="122" class="label-text" text-anchor="middle">Diseño</text>
+    <text x="180" y="142" class="body-text" text-anchor="middle">Planos y especificaciones.</text>
+    <text x="180" y="157" class="body-text" text-anchor="middle">Facturación por horas.</text>
+  </g>
+
+  <line x1="280" y1="131" x2="338" y2="131" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Step 2 -->
+  <g filter="url(#pill-shadow)">
+    <rect x="340" y="95" width="200" height="72" rx="20" class="pill"/>
+    <text x="440" y="122" class="label-text" text-anchor="middle">Cobrar</text>
+    <text x="440" y="142" class="body-text" text-anchor="middle">Factura única</text>
+    <text x="440" y="157" class="body-text" text-anchor="middle">por tiempo dedicado.</text>
+  </g>
+
+  <line x1="540" y1="131" x2="598" y2="131" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Step 3 -->
+  <g filter="url(#pill-shadow)">
+    <rect x="600" y="95" width="200" height="72" rx="20" class="pill"/>
+    <text x="700" y="122" class="label-text" text-anchor="middle">Siguiente proyecto</text>
+    <text x="700" y="142" class="body-text" text-anchor="middle">Sin relación continuada.</text>
+    <text x="700" y="157" class="body-text" text-anchor="middle">Márgenes bajos. Sin recurrencia.</text>
+  </g>
+
+  <!-- AI threat -->
+  <g filter="url(#pill-shadow)">
+    <rect x="85" y="175" width="190" height="26" rx="10" class="pill"/>
+    <text x="180" y="193" class="threat-text" text-anchor="middle">La IA comoditiza esto &#x2191;</text>
+  </g>
+
+  <!-- Formula -->
+  <text x="440" y="195" class="subtitle" text-anchor="middle" font-style="italic">Ingresos = f (horas trabajadas)</text>
+
+  <!-- ===== Divider ===== -->
+  <line x1="80" y1="218" x2="800" y2="218" stroke="#1a1a1a" stroke-width="1" stroke-dasharray="4,6"/>
+
+  <!-- ===== BOTTOM: Lifecycle Model ===== -->
+  <text x="440" y="252" class="subtitle" text-anchor="middle" fill="#00b764">El modelo de ciclo de vida</text>
+
+  <!-- Stage 1: Design -->
+  <g filter="url(#pill-shadow)">
+    <rect x="30" y="270" width="195" height="100" rx="20" class="pill"/>
+    <rect x="30" y="270" width="195" height="100" rx="20" fill="none" stroke="#00b764" stroke-width="1.5"/>
+    <text x="127" y="296" class="accent-text" text-anchor="middle">Diseño</text>
+    <text x="127" y="316" class="body-text" text-anchor="middle">Modelos BIM pensados</text>
+    <text x="127" y="332" class="body-text" text-anchor="middle">para la explotación.</text>
+    <text x="127" y="354" class="body-text" text-anchor="middle" font-style="italic">Base del valor de ciclo de vida.</text>
+  </g>
+
+  <line x1="225" y1="320" x2="258" y2="320" stroke="#00b764" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Stage 2: Operate -->
+  <g filter="url(#pill-shadow)">
+    <rect x="260" y="270" width="195" height="100" rx="20" class="pill"/>
+    <rect x="260" y="270" width="195" height="100" rx="20" fill="none" stroke="#00b764" stroke-width="1.5"/>
+    <text x="357" y="296" class="accent-text" text-anchor="middle">Operar</text>
+    <text x="357" y="316" class="body-text" text-anchor="middle">Soporte O&amp;M con</text>
+    <text x="357" y="332" class="body-text" text-anchor="middle">gemelo digital. Menos horas</text>
+    <text x="357" y="348" class="body-text" text-anchor="middle">en obra, menores costes mant.</text>
+    <text x="357" y="364" class="body-text" text-anchor="middle" font-style="italic">Relación continua.</text>
+  </g>
+
+  <line x1="455" y1="320" x2="488" y2="320" stroke="#00b764" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Stage 3: Analytics -->
+  <g filter="url(#pill-shadow)">
+    <rect x="490" y="270" width="195" height="100" rx="20" class="pill"/>
+    <rect x="490" y="270" width="195" height="100" rx="20" fill="none" stroke="#00b764" stroke-width="1.5"/>
+    <text x="587" y="296" class="accent-text" text-anchor="middle">Analítica</text>
+    <text x="587" y="316" class="body-text" text-anchor="middle">Conocimiento predictivo</text>
+    <text x="587" y="332" class="body-text" text-anchor="middle">a partir de datos acumulados.</text>
+    <text x="587" y="354" class="body-text" text-anchor="middle" font-style="italic">Se revaloriza con cada proyecto.</text>
+  </g>
+
+  <line x1="685" y1="320" x2="708" y2="320" stroke="#00b764" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Stage 4: Recurring Revenue -->
+  <g filter="url(#pill-shadow)">
+    <rect x="710" y="270" width="160" height="100" rx="20" fill="#00b764"/>
+    <text x="790" y="300" class="label-text" text-anchor="middle" style="fill:#ffffff">Ingresos</text>
+    <text x="790" y="318" class="label-text" text-anchor="middle" style="fill:#ffffff">recurrentes</text>
+    <text x="790" y="342" class="body-text" text-anchor="middle" style="fill:#e0f5eb">Suscripciones, tarifas</text>
+    <text x="790" y="358" class="body-text" text-anchor="middle" style="fill:#e0f5eb">de disponibilidad.</text>
+  </g>
+
+  <!-- Formula -->
+  <text x="440" y="405" class="subtitle" text-anchor="middle" font-style="italic">Ingresos = f (valor creado para el cliente)</text>
+
+  <!-- ===== Key Enablers ===== -->
+  <line x1="80" y1="425" x2="800" y2="425" stroke="#1a1a1a" stroke-width="1" stroke-dasharray="4,6"/>
+
+  <text x="440" y="455" class="subtitle" text-anchor="middle">Tres facilitadores</text>
+
+  <g filter="url(#pill-shadow)">
+    <rect x="60" y="470" width="230" height="50" rx="16" class="pill"/>
+    <text x="175" y="492" class="accent-text" text-anchor="middle">Interoperabilidad</text>
+    <text x="175" y="510" class="body-text" text-anchor="middle">Los datos fluyen entre fases</text>
+  </g>
+
+  <g filter="url(#pill-shadow)">
+    <rect x="320" y="470" width="230" height="50" rx="16" class="pill"/>
+    <text x="435" y="492" class="accent-text" text-anchor="middle">Alianzas estratégicas</text>
+    <text x="435" y="510" class="body-text" text-anchor="middle">Ecosistema CDE, IoT y analítica</text>
+  </g>
+
+  <g filter="url(#pill-shadow)">
+    <rect x="580" y="470" width="230" height="50" rx="16" class="pill"/>
+    <text x="695" y="492" class="accent-text" text-anchor="middle">Nuevas competencias</text>
+    <text x="695" y="510" class="body-text" text-anchor="middle">Alfabetización y entrega digital</text>
+  </g>
+
+  <!-- Source -->
+  <text x="440" y="558" class="body-text" text-anchor="middle" font-style="italic" fill="#8a8a8a">El futuro de las pymes de ingeniería y construcción</text>
+</svg>

@@ -1,0 +1,69 @@
+---
+layout: post
+title: "African countries have an advantage for the future of their roads. They should use it"
+date: 2026-03-17
+slug: african-countries-roads-advantage
+linkedin_url: "https://www.linkedin.com/pulse/african-countries-have-advantage-future-roads-should-use-cordovilla-cbpxe/"
+excerpt: "35 African countries have dedicated Road Funds. Most developed countries don't. The problem is governance, not money."
+---
+
+> *Post-conference reflection from Transforming Transportation 2026 (World Bank, Washington DC, March 9–12)*
+
+I spent a few days in Washington last week at [Transforming Transportation 2026](https://www.transformingtransportation.org/), the World Bank's annual conference on transport and development. I had the privilege to be in the panel about regional integration through transport systems. The usual topics would have been corridors, trade costs, investment gaps, raising funds and financing. The moderator opened with numbers that say it all: in Africa, [trade and logistics costs](https://openknowledge.worldbank.org/entities/publication/308dc282-90c1-41e4-b4a2-0b19d2309d43) can represent 30-40% of the final price of goods, compared with 8–10% in higher-income countries. Landlocked countries fare even worse. And, as transport costs are a major component of food prices, you can imagine how that translates to food security and the wellbeing of African communities.
+
+However, I was particularly excited that much of our conversation connected to questions that nobody in the room had explicitly asked: how much does it cost to keep roads in condition once they are built, who is responsible for it, and why does that responsibility fail so consistently across countries and continents? I truly believe this is the disconnect that drives performance failures in transport systems worldwide. Capital investment has a strong political driver: ribbon-cutting, visibility, electoral reward, even vanity, while **maintenance is invisible until failure**. And because it is invisible, it loses the political competition against new construction every time, in every country, regardless of GDP.
+
+Being a hard-core believer in "governance-first" infrastructure, I was very glad that all and every panelist (a World Bank economist, a DRC minister, the Lobito Corridor executive secretary, a European logistics foundation director, a Pakistani planning commissioner and myself) arrived at essentially the same conclusion: **governance, institutions, and coordination matter more than additional capital**.
+
+#### The advantage African countries already have
+
+Across Sub-Saharan Africa, 35 countries have established dedicated Road Funds. These are autonomous or semi-autonomous institutions whose sole mandate is to finance road maintenance from earmarked funds (fuel levy, tolls, other taxes..). I manage the [TYPSA](https://www.linkedin.com/company/typsa/) technical assistance team for [SSATP's Resilient Road Asset Management programme](https://www.ssatp.org/topics/road-asset-management), which is led by [Oceane Keou](https://www.linkedin.com/in/oceane-keou/) of [The World Bank Group](https://www.linkedin.com/company/the-world-bank/). In September 2025 we started a major survey that has analysed 15 of these funds in detail across West, East, and Southern Africa, in collaboration with [The African Road Maintenance Funds Association (ARMFA)](https://www.linkedin.com/company/the-african-road-maintenance-funds-association-armfa/).
+
+We expect to publish the survey results and policy recommendations in April 2026. What we are finding is that these institutions are imperfect: Many are politically captured, underfunded, or bypassed by their own governments. Collected revenues cover on average only 40% of actual maintenance needs, and only half of their boards operate with full autonomy. The shortcomings are real and well documented in our baseline study.
+
+> *However, what gets overlooked is that these institutions exist at all. And their existence is an advantage: They are a bridge between capital investment and the technical reality that road assets require sustained, predictable maintenance funds.*
+
+And, guess what: Most developed countries do not have this mechanism, and have not even begun to build it. For instance, the UK finances road maintenance from general taxation, allocated annually through a political process, and the country has a [£16.3 billion maintenance backlog](https://lcrig.org.uk/2024/03/19/alarm-survey-2024-carriageway-repairs-backlog-increases-to-a-record-high-of-16-3-billion/) and a pothole crisis with no structural mechanism to resolve it. The US Highway Trust Fund has been [technically insolvent since 2008](https://enotrans.org/article/ten-years-of-highway-trust-fund-bankruptcy-why-did-it-happen-and-what-have-we-learned/). Spain's conventional rail network has accumulated a [maintenance deficit](https://www.linkedin.com/pulse/strategic-case-railway-infrastructure-funding-jose-cordovilla-wmllf) that successive governments have preferred to ignore while channelling resources into high-speed expansion. **Without a dedicated institution that separates maintenance funding from the political cycle, maintenance will always lose**.
+
+Another strong example: the EU's decades-long struggle with road user charges illustrates how difficult it is to create such institutions from scratch. The [Eurovignette Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L0362) (first adopted in 1999, reformed four times since) has been the EU's primary instrument for pushing member states toward the user-pays principle. After more than twenty years, the majority of member states have either failed to transpose the directive, delayed indefinitely, or opted for time-based vignettes that bear no relation to actual road damage. Spain committed to road user charges in its Recovery and Resilience Plan (a condition linked to receiving EU funds after the Covid crisis) but then [quietly shelved it](https://www.railfreight.com/policy/2023/10/04/ec-accepted-spains-request-to-avoid-road-tolls-to-promote-rail-freight/) because the electoral cost was too high. Similarly, France attempted the écotaxe in 2013, a national distance-based charge for heavy goods vehicles, but the Bonnets Rouges protests [forced its withdrawal](https://www.legifiscal.fr/actualites-fiscales/1405-cour-des-comptes-labandon-de-lecotaxe-epinglee.html) within months.
+
+African Road Funds already have what European countries are still fighting to create: earmarked revenues, a dedicated governance structure, and a statutory mandate that says maintenance comes first. The African institutions may be weaker in execution now, but structurally further ahead, and the way ahead is long, not only in Africa.
+
+#### What the data tells us: it's about governance, not money
+
+Our continent-wide assessment reveals two findings that challenge the way this problem is usually framed:
+
+1. Road institutions that have proper data and information systems do better in all dimensions (financing, governance, delivery, resilience) than those that do not. And they happen to use both asset and financial management tools, equally, which tells us that either the institutional culture supports data-driven management or it does not. And yet, most of the Road Funds we surveyed do not have access to a road asset management system (RAMs) of any kind. The implications are severe: without asset data, money is allocated politically, most likely not to road segments with the worst condition. When an institution knows its network, in what condition it is and how good a transport service they provide, it can defend its budget with evidence rather than politics. Furthermore, the countries that score highest in this area are also the ones that explicitly include rural roads within their asset management systems.
+2. Sustainable (= sustained) financing is the weakest dimension (self-reported) across all countries, but **the funding gap itself is not the binding constraint.** Execution inefficiency and political interference are identified as also key constraints, and they actually prevent available funds from reaching the roads that need them. On the other hand, diversification of revenue sources does not predict better execution, although it does provide financial stability. What does predict strong execution (i.e. the revenue collected turns into actual maintenance) is governance, and more specifically, the balance in representation at the road fund board: private sector and road user representation strongly correlates with higher execution rates.
+
+> *The implication is uncomfortable for those who frame the problem primarily as a financing challenge: more money flowing into a weak institution produces more waste, not more maintenance. The institution must be fixed before the financing question even becomes relevant.*
+
+#### A corridor is only as good as its weakest segment
+
+Transport corridors are at the centre of Africa's development agenda, for good reason. For landlocked countries (16 of the continent's 54 nations), corridors are not just a trade facilitation instrument, but the only viable connection to global markets. This is why corridors feature so prominently in the African Union's Programme for Infrastructure Development in Africa (PIDA), the international partnership strategy of the European Commission ([Global Gateway](https://international-partnerships.ec.europa.eu/policies/global-gateway/transport/eu-africa-strategic-corridors_en)) and the lending portfolios of the World Bank, AfDB, etc.
+
+Governments, regional bodies, and donors broadly agree that corridor investment is a priority. But the conversation is almost always about building new links or upgrading existing ones, not about who and how to maintain them. **Every stretch of road carries an operational cost from the day it opens**: for condition monitoring, road safety auditing, routine maintenance, periodic rehabilitation, axle load enforcement. Over a generation, this is the real cost of having a network, and it needs to be factored into any investment decision from the outset, not discovered later when the asset starts to fail. This requires institutions and delivery models that embed whole-life management by default.
+
+A corridor is only as strong as its weakest segment, and that weakness is never about money alone. It is about day-to-day capability: whether the road agency has the systems to monitor condition, the capacity to programme maintenance, the authority to enforce axle load limits, and the operational discipline to execute year after year. This will determine the condition of those roads with time, which is what determines whether a community, a country and a region can trade competitively and prosper. If you bring this logic to regional corridors, it is obvious that they require corridor-level maintenance obligation, shared performance standards, regional compensation mechanisms for transit countries that bear disproportionate freight wear, shared information systems, and much more. Not at country level: at regional level.
+
+Harmonised standards and shared institutional responsibilities are a prerequisite for corridors to function as systems rather than as sequences of disconnected national segments. This means harmonised condition assessment criteria so that countries measure performance the same way, shared maintenance responsibilities so that corridor segments do not depend on one country's fiscal cycle, coordinated axle load enforcement so that one country's lax controls do not destroy another country's roads, and shared rights to oversee and audit maintenance execution across borders.
+
+Regional Economic Communities such as ECOWAS, EAC or SADC, and the African Union Commission have mandates that extend to transport coordination, and development partners have consistently supported corridor programmes. Governance requires that mandates create effective operational mechanisms, and this is where advisors like us work. The RECs and AUC, with the backing of development partners, must lead the transition from corridor investment to corridor stewardship, and the institutional infrastructure for that stewardship requires the same level of attention as the roads themselves.
+
+#### The opportunity for Africa
+
+Every discussion about African infrastructure eventually reaches the same conclusion: more money is needed. True. But the sequencing matter more than the volume, and the institutional foundation and the long-term thinking matter more than the sequencing.
+
+African countries have something that most developed countries have spent decades trying and failing to create: dedicated institutions with earmarked revenue and a statutory mandate for road maintenance. These African institutions need better governance, better data, and better delivery mechanisms. The road ahead is long, but it is longer still for countries that do not even have the institutional starting point, and that includes most of Europe.
+
+The question is whether African governments and the regional bodies that coordinate them will treat these institutions as the foundation they are, invest in their capability, and use them to break the cycle of building roads that nobody maintains. **The advantage is structural, and African people should use it.**
+
+---
+
+End notes:
+
+The panel session on Regional Integration Through Transport System [**can be viewed here**](https://youtu.be/OpgfG4QnJiM?si=-9cBoBxGTcy9aSdc&t=1969).
+
+The technical assistance to SSATP Pillar 4 - Resilient Road Asset Management, implemented by [TYPSA](https://www.linkedin.com/company/typsa/), is financed by the [**European Commission**](https://www.linkedin.com/company/european-commission/) (main SSATP donor). We started in 2025 and will be doing a lot of interesting policy and implementation work for the next two years, too.
+
+---

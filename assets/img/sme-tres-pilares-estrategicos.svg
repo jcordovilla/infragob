@@ -1,0 +1,106 @@
+<svg viewBox="0 0 880 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Georgia, 'Playfair Display', serif; font-size: 21px; font-weight: 700; fill: #1e2640; }
+      .subtitle { font-family: Georgia, 'Playfair Display', serif; font-size: 15px; font-weight: 400; fill: #1e2640; }
+      .label-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 13px; font-weight: 600; fill: #1e2640; }
+      .body-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 12px; font-weight: 400; fill: #4a5568; }
+      .accent-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 12px; font-weight: 600; fill: #00b764; }
+      .threat-text { font-family: 'Inter', 'Source Sans Pro', system-ui, sans-serif; font-size: 12px; font-weight: 600; fill: #8b3a3a; }
+      .pill { fill: #ffffff; }
+    </style>
+    <filter id="pill-shadow" x="-5%" y="-10%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="880" height="520" fill="#e8e6e3" rx="0"/>
+
+  <!-- Title -->
+  <text x="440" y="42" class="title" text-anchor="middle">La triple presión — y la respuesta</text>
+
+  <!-- LEFT: Three pressures -->
+  <text x="170" y="80" class="subtitle" text-anchor="middle">Las presiones</text>
+
+  <!-- Absorption pill -->
+  <g filter="url(#pill-shadow)">
+    <rect x="35" y="105" width="285" height="80" rx="20" class="pill"/>
+    <text x="63" y="132" class="threat-text">Absorción</text>
+    <text x="63" y="150" class="body-text">Generalistas compran especialistas.</text>
+    <text x="63" y="166" class="body-text">Colliers, Accenture, Big Four.</text>
+  </g>
+
+  <!-- Automation pill -->
+  <g filter="url(#pill-shadow)">
+    <rect x="35" y="200" width="285" height="80" rx="20" class="pill"/>
+    <text x="63" y="227" class="threat-text">Automatización</text>
+    <text x="63" y="245" class="body-text">La IA comoditiza la producción técnica.</text>
+    <text x="63" y="261" class="body-text">Modelo horario bajo presión.</text>
+  </g>
+
+  <!-- Consolidation pill -->
+  <g filter="url(#pill-shadow)">
+    <rect x="35" y="295" width="285" height="80" rx="20" class="pill"/>
+    <text x="63" y="322" class="threat-text">Consolidación</text>
+    <text x="63" y="340" class="body-text">Mega-ingenierías adquiriendo escala.</text>
+    <text x="63" y="356" class="body-text">WSP: USD 7.500M+ en fusiones.</text>
+  </g>
+
+  <!-- Dashed arrows from pressures to centre -->
+  <line x1="320" y1="145" x2="395" y2="240" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <line x1="320" y1="240" x2="395" y2="240" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <line x1="320" y1="335" x2="395" y2="240" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Centre: SME under pressure -->
+  <g filter="url(#pill-shadow)">
+    <rect x="400" y="200" width="100" height="80" rx="16" fill="#1e2640"/>
+    <text x="450" y="235" class="label-text" text-anchor="middle" style="fill:#ffffff">Pymes del</text>
+    <text x="450" y="253" class="label-text" text-anchor="middle" style="fill:#ffffff">sector</text>
+  </g>
+
+  <!-- Dashed arrows from centre to response -->
+  <line x1="500" y1="218" x2="558" y2="145" stroke="#00b764" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <line x1="500" y1="240" x2="558" y2="240" stroke="#00b764" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <line x1="500" y1="262" x2="558" y2="335" stroke="#00b764" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- RIGHT: The response -->
+  <text x="700" y="80" class="subtitle" text-anchor="middle">La respuesta</text>
+
+  <!-- Governance pill -->
+  <g filter="url(#pill-shadow)">
+    <rect x="560" y="105" width="285" height="80" rx="20" class="pill"/>
+    <rect x="560" y="105" width="285" height="80" rx="20" fill="none" stroke="#00b764" stroke-width="1.5"/>
+    <text x="588" y="132" class="accent-text">Gobernar antes de automatizar</text>
+    <text x="588" y="150" class="body-text">Estándares de datos, capacidad</text>
+    <text x="588" y="166" class="body-text">organizativa antes que herramientas.</text>
+  </g>
+
+  <!-- Depth pill -->
+  <g filter="url(#pill-shadow)">
+    <rect x="560" y="200" width="285" height="80" rx="20" class="pill"/>
+    <rect x="560" y="200" width="285" height="80" rx="20" fill="none" stroke="#00b764" stroke-width="1.5"/>
+    <text x="588" y="227" class="accent-text">Más especializados, no más grandes</text>
+    <text x="588" y="245" class="body-text">Especialización sectorial</text>
+    <text x="588" y="261" class="body-text">amplificada con IA.</text>
+  </g>
+
+  <!-- Outcomes pill -->
+  <g filter="url(#pill-shadow)">
+    <rect x="560" y="295" width="285" height="80" rx="20" class="pill"/>
+    <rect x="560" y="295" width="285" height="80" rx="20" fill="none" stroke="#00b764" stroke-width="1.5"/>
+    <text x="588" y="322" class="accent-text">Vender resultados, no horas</text>
+    <text x="588" y="340" class="body-text">Datos como activo estratégico.</text>
+    <text x="588" y="356" class="body-text">De horas a ingresos recurrentes.</text>
+  </g>
+
+  <!-- Bottom insight -->
+  <g filter="url(#pill-shadow)">
+    <rect x="195" y="425" width="490" height="55" rx="16" class="pill"/>
+    <text x="440" y="449" class="subtitle" text-anchor="middle" font-style="italic">El camino no es la escala —esa batalla está perdida—</text>
+    <text x="440" y="468" class="subtitle" text-anchor="middle" font-style="italic">sino la especialización, la gobernanza y repensar lo que vendes.</text>
+  </g>
+
+  <!-- Source -->
+  <text x="440" y="505" class="body-text" text-anchor="middle" font-style="italic" fill="#8a8a8a">El futuro de las pymes de ingeniería y construcción</text>
+</svg>

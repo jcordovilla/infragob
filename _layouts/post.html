@@ -13,6 +13,9 @@ layout: default
   <time datetime="{{ page.date | date: '%Y-%m-%d' }}">
     {{ page.date | date: "%-d" }} de {{ months[m] }} de {{ page.date | date: "%Y" }} · {{ mins }} min
   </time>
+  {% if page.linkedin_url %}
+  <p class="also-on"><a href="{{ page.linkedin_url }}" target="_blank" rel="noopener">Leer en LinkedIn / Read on LinkedIn</a></p>
+  {% endif %}
 
   {{ content }}
 

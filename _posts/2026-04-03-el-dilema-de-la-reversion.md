@@ -3,6 +3,7 @@ layout: post
 title: "El dilema de la reversión"
 date: 2026-04-03
 slug: el-dilema-de-la-reversion
+linkedin_url: "https://www.linkedin.com/pulse/el-dilema-de-la-reversi%C3%B3n-jose-cordovilla-qknve/"
 excerpt: "Cuando una concesión entra en su fase final, la Administración se enfrenta a una decisión que revela su filosofía de gestión: ¿Revertir, rescatar o re-concesionar? Lamentablemente, esta decisión acaba siendo fundamentalmente política, no técnica."
 ---
 

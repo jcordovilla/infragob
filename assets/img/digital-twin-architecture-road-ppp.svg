@@ -1,0 +1,154 @@
+<svg width="900" height="650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font: bold 22px sans-serif; fill: #1a1a1a; }
+      .layer-label { font: bold 16px sans-serif; fill: #2c5282; }
+      .component-title { font: bold 13px sans-serif; fill: #1a202c; }
+      .component-text { font: 11px sans-serif; fill: #4a5568; }
+      .layer-physical { fill: #e6f3ff; stroke: #2c5282; stroke-width: 2; }
+      .layer-data { fill: #fff5e6; stroke: #d97706; stroke-width: 2; }
+      .layer-analytics { fill: #f0e6ff; stroke: #6b46c1; stroke-width: 2; }
+      .layer-decision { fill: #e6ffe6; stroke: #2f855a; stroke-width: 2; }
+      .component-box { fill: white; stroke: #4a5568; stroke-width: 1.5; }
+      .arrow-up { fill: none; stroke: #718096; stroke-width: 2; stroke-dasharray: 5,5; }
+      .integration-arrow { fill: none; stroke: #2c5282; stroke-width: 2.5; }
+      .center-text { font: bold 14px sans-serif; fill: #2c5282; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="450" y="30" class="title" text-anchor="middle">Digital Twin Architecture for Road PPP Risk Management</text>
+
+  <!-- Layer 1: Physical Infrastructure -->
+  <rect x="50" y="60" width="800" height="120" class="layer-physical" rx="8"/>
+  <text x="60" y="80" class="layer-label">Layer 1: Physical Infrastructure &amp; Sensors</text>
+
+  <!-- Components in Layer 1 -->
+  <rect x="70" y="90" width="155" height="75" class="component-box" rx="4"/>
+  <text x="147" y="107" class="component-title" text-anchor="middle">Traffic Monitoring</text>
+  <text x="80" y="125" class="component-text">• Vehicle counts/speeds</text>
+  <text x="80" y="141" class="component-text">• Flow patterns</text>
+  <text x="80" y="157" class="component-text">• Incident detection</text>
+
+  <rect x="240" y="90" width="155" height="75" class="component-box" rx="4"/>
+  <text x="317" y="107" class="component-title" text-anchor="middle">Pavement Sensors</text>
+  <text x="250" y="125" class="component-text">• Surface condition</text>
+  <text x="250" y="141" class="component-text">• Embedded sensors</text>
+  <text x="250" y="157" class="component-text">• Deterioration tracking</text>
+
+  <rect x="410" y="90" width="155" height="75" class="component-box" rx="4"/>
+  <text x="487" y="107" class="component-title" text-anchor="middle">Structural Health</text>
+  <text x="420" y="125" class="component-text">• Bridge monitoring</text>
+  <text x="420" y="141" class="component-text">• Tunnel integrity</text>
+  <text x="420" y="157" class="component-text">• Stress/strain sensors</text>
+
+  <rect x="580" y="90" width="155" height="75" class="component-box" rx="4"/>
+  <text x="657" y="107" class="component-title" text-anchor="middle">Weather &amp; Climate</text>
+  <text x="590" y="125" class="component-text">• Weather stations</text>
+  <text x="590" y="141" class="component-text">• Precipitation data</text>
+  <text x="590" y="157" class="component-text">• Temperature tracking</text>
+
+  <!-- Arrows from Layer 1 to Layer 2 -->
+  <path d="M 147 175 L 147 200" class="arrow-up"/>
+  <path d="M 317 175 L 317 200" class="arrow-up"/>
+  <path d="M 487 175 L 487 200" class="arrow-up"/>
+  <path d="M 657 175 L 657 200" class="arrow-up"/>
+
+  <!-- Layer 2: Data Integration & Management -->
+  <rect x="50" y="200" width="800" height="120" class="layer-data" rx="8"/>
+  <text x="60" y="220" class="layer-label">Layer 2: Data Integration &amp; Management</text>
+
+  <!-- Components in Layer 2 -->
+  <rect x="70" y="230" width="185" height="75" class="component-box" rx="4"/>
+  <text x="162" y="247" class="component-title" text-anchor="middle">Real-Time Data Streams</text>
+  <text x="80" y="265" class="component-text">• IoT sensor feeds</text>
+  <text x="80" y="281" class="component-text">• Continuous monitoring</text>
+  <text x="80" y="297" class="component-text">• Data quality validation</text>
+
+  <rect x="270" y="230" width="185" height="75" class="component-box" rx="4"/>
+  <text x="362" y="247" class="component-title" text-anchor="middle">Historical Data Lake</text>
+  <text x="280" y="265" class="component-text">• Maintenance records</text>
+  <text x="280" y="281" class="component-text">• Performance history</text>
+  <text x="280" y="297" class="component-text">• Financial data</text>
+
+  <rect x="470" y="230" width="185" height="75" class="component-box" rx="4"/>
+  <text x="562" y="247" class="component-title" text-anchor="middle">External Data Sources</text>
+  <text x="480" y="265" class="component-text">• Economic indicators</text>
+  <text x="480" y="281" class="component-text">• Mobility trends</text>
+  <text x="480" y="297" class="component-text">• Climate projections</text>
+
+  <rect x="670" y="230" width="165" height="75" class="component-box" rx="4"/>
+  <text x="752" y="247" class="component-title" text-anchor="middle">Data Governance</text>
+  <text x="680" y="265" class="component-text">• Access controls</text>
+  <text x="680" y="281" class="component-text">• Privacy protection</text>
+  <text x="680" y="297" class="component-text">• Audit trails</text>
+
+  <!-- Arrows from Layer 2 to Layer 3 -->
+  <path d="M 162 315 L 162 340" class="arrow-up"/>
+  <path d="M 362 315 L 362 340" class="arrow-up"/>
+  <path d="M 562 315 L 562 340" class="arrow-up"/>
+  <path d="M 752 315 L 752 340" class="arrow-up"/>
+
+  <!-- Layer 3: Analytics & Prediction -->
+  <rect x="50" y="340" width="800" height="120" class="layer-analytics" rx="8"/>
+  <text x="60" y="360" class="layer-label">Layer 3: Analytics &amp; Predictive Modeling</text>
+
+  <!-- Components in Layer 3 -->
+  <rect x="70" y="370" width="175" height="75" class="component-box" rx="4"/>
+  <text x="157" y="387" class="component-title" text-anchor="middle">Demand Forecasting</text>
+  <text x="80" y="405" class="component-text">• Traffic predictions</text>
+  <text x="80" y="421" class="component-text">• Pattern recognition</text>
+  <text x="80" y="437" class="component-text">• Scenario modeling</text>
+
+  <rect x="260" y="370" width="175" height="75" class="component-box" rx="4"/>
+  <text x="347" y="387" class="component-title" text-anchor="middle">Asset Deterioration</text>
+  <text x="270" y="405" class="component-text">• Predictive models</text>
+  <text x="270" y="421" class="component-text">• Lifecycle analysis</text>
+  <text x="270" y="437" class="component-text">• Failure prediction</text>
+
+  <rect x="450" y="370" width="175" height="75" class="component-box" rx="4"/>
+  <text x="537" y="387" class="component-title" text-anchor="middle">Climate Resilience</text>
+  <text x="460" y="405" class="component-text">• Impact modeling</text>
+  <text x="460" y="421" class="component-text">• Adaptation planning</text>
+  <text x="460" y="437" class="component-text">• Risk assessment</text>
+
+  <rect x="640" y="370" width="195" height="75" class="component-box" rx="4"/>
+  <text x="737" y="387" class="component-title" text-anchor="middle">Financial Modeling</text>
+  <text x="650" y="405" class="component-text">• Revenue projections</text>
+  <text x="650" y="421" class="component-text">• Risk pricing</text>
+  <text x="650" y="437" class="component-text">• Performance metrics</text>
+
+  <!-- Arrows from Layer 3 to Layer 4 -->
+  <path d="M 157 455 L 157 480" class="arrow-up"/>
+  <path d="M 347 455 L 347 480" class="arrow-up"/>
+  <path d="M 537 455 L 537 480" class="arrow-up"/>
+  <path d="M 737 455 L 737 480" class="arrow-up"/>
+
+  <!-- Layer 4: Decision Support & Governance -->
+  <rect x="50" y="480" width="800" height="120" class="layer-decision" rx="8"/>
+  <text x="60" y="500" class="layer-label">Layer 4: Decision Support &amp; Collaborative Governance</text>
+
+  <!-- Components in Layer 4 -->
+  <rect x="90" y="510" width="220" height="75" class="component-box" rx="4"/>
+  <text x="200" y="527" class="component-title" text-anchor="middle">Public Authority Dashboard</text>
+  <text x="100" y="545" class="component-text">• Performance monitoring</text>
+  <text x="100" y="561" class="component-text">• Compliance verification</text>
+  <text x="100" y="577" class="component-text">• Public interest protection</text>
+
+  <rect x="330" y="510" width="240" height="75" class="component-box" rx="4"/>
+  <text x="450" y="527" class="component-title" text-anchor="middle">Shared Decision Platform</text>
+  <text x="340" y="545" class="component-text">• Real-time collaboration</text>
+  <text x="340" y="561" class="component-text">• Scenario comparison</text>
+  <text x="340" y="577" class="component-text">• Joint optimization</text>
+
+  <rect x="590" y="510" width="240" height="75" class="component-box" rx="4"/>
+  <text x="710" y="527" class="component-title" text-anchor="middle">Private Operator Dashboard</text>
+  <text x="600" y="545" class="component-text">• Operations optimization</text>
+  <text x="600" y="561" class="component-text">• Maintenance planning</text>
+  <text x="600" y="577" class="component-text">• Performance tracking</text>
+
+  <!-- Central Integration Arrow -->
+  <path d="M 450 610 L 450 630" class="integration-arrow"/>
+  <text x="450" y="625" class="center-text" text-anchor="middle">↓</text>
+  <text x="450" y="645" class="center-text" text-anchor="middle">Continuous Feedback Loop</text>
+</svg>

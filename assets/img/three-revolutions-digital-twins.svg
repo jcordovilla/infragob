@@ -1,0 +1,83 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font: bold 22px sans-serif; fill: #1a1a1a; }
+      .subtitle { font: bold 16px sans-serif; fill: #2c5282; }
+      .header { font: bold 14px sans-serif; fill: #4a5568; }
+      .text { font: 13px sans-serif; fill: #2d3748; }
+      .arrow { fill: none; stroke: #2c5282; stroke-width: 3; marker-end: url(#arrowhead); }
+      .box-traditional { fill: #fed7d7; stroke: #c53030; stroke-width: 2; }
+      .box-digital { fill: #c6f6d5; stroke: #2f855a; stroke-width: 2; }
+      .revolution-label { font: bold 14px sans-serif; fill: #1a202c; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2c5282" />
+    </marker>
+  </defs>
+  <!-- Traditional Column Header -->
+  <text x="175" y="75" class="subtitle" text-anchor="middle">Traditional PPP Model</text>
+
+  <!-- Digital Twin Column Header -->
+  <text x="525" y="75" class="subtitle" text-anchor="middle">Digital Twin-Enabled Model</text>
+
+  <!-- Revolution 1: Risk Assessment -->
+  <text x="230" y="105" class="revolution-label">Transformation 1: Risk Assessment</text>
+
+  <!-- Traditional Risk Assessment Box -->
+  <rect x="50" y="120" width="250" height="90" class="box-traditional" rx="5"/>
+  <text x="175" y="140" class="header" text-anchor="middle">Historical &amp; Assumption-Based</text>
+  <text x="60" y="160" class="text">• Past traffic data</text>
+  <text x="60" y="178" class="text">• Demographic projections</text>
+  <text x="60" y="196" class="text">• Static economic models</text>
+
+  <!-- Arrow 1 -->
+  <path d="M 310 165 L 390 165" class="arrow"/>
+  <text x="350" y="145" class="text" text-anchor="middle">enables</text>
+
+  <!-- Digital Risk Assessment Box -->
+  <rect x="400" y="120" width="250" height="90" class="box-digital" rx="5"/>
+  <text x="525" y="140" class="header" text-anchor="middle">Predictive &amp; Real-Time</text>
+  <text x="410" y="160" class="text">• Real-time pattern recognition</text>
+  <text x="410" y="178" class="text">• Emerging trend detection</text>
+  <text x="410" y="196" class="text">• Dynamic scenario modeling</text>
+
+  <!-- Revolution 2: Maintenance -->
+  <text x="210" y="255" class="revolution-label">Transformation 2: Maintenance Approach</text>
+
+  <!-- Traditional Maintenance Box -->
+  <rect x="50" y="270" width="250" height="90" class="box-traditional" rx="5"/>
+  <text x="175" y="290" class="header" text-anchor="middle">Reactive &amp; Compliance-Based</text>
+  <text x="60" y="310" class="text">• Minimum standard adherence</text>
+  <text x="60" y="328" class="text">• Penalty-driven performance</text>
+  <text x="60" y="346" class="text">• Adversarial monitoring</text>
+
+  <!-- Arrow 2 -->
+  <path d="M 310 315 L 390 315" class="arrow"/>
+  <text x="350" y="295" class="text" text-anchor="middle">enables</text>
+
+  <!-- Digital Maintenance Box -->
+  <rect x="400" y="270" width="250" height="90" class="box-digital" rx="5"/>
+  <text x="525" y="290" class="header" text-anchor="middle">Proactive &amp; Optimization-Based</text>
+  <text x="410" y="310" class="text">• Predictive deterioration models</text>
+  <text x="410" y="328" class="text">• Lifecycle cost optimization</text>
+  <text x="410" y="346" class="text">• Collaborative asset management</text>
+
+  <!-- Revolution 3: Risk Pricing -->
+  <text x="250" y="405" class="revolution-label">Transformation 3: Risk Pricing</text>
+
+  <!-- Traditional Pricing Box -->
+  <rect x="50" y="420" width="250" height="70" class="box-traditional" rx="5"/>
+  <text x="175" y="440" class="header" text-anchor="middle">Static &amp; Fixed</text>
+  <text x="60" y="460" class="text">• Locked at financial close</text>
+  <text x="60" y="478" class="text">• Fixed despite changing risks</text>
+
+  <!-- Arrow 3 -->
+  <path d="M 310 455 L 390 455" class="arrow"/>
+  <text x="350" y="435" class="text" text-anchor="middle">enables</text>
+
+  <!-- Digital Pricing Box -->
+  <rect x="400" y="420" width="250" height="70" class="box-digital" rx="5"/>
+  <text x="525" y="440" class="header" text-anchor="middle">Dynamic &amp; Performance-Based</text>
+  <text x="410" y="460" class="text">• Continuous risk price discovery</text>
+  <text x="410" y="478" class="text">• Performance-based refinancing</text>
+</svg>

@@ -1,0 +1,86 @@
+---
+layout: post
+title: "El futuro de las pymes en ingeniería y construcción"
+date: 2026-03-03
+slug: el-futuro-de-las-pymes
+linkedin_url: "https://www.linkedin.com/pulse/el-futuro-de-las-pymes-en-ingenier%C3%ADa-y-construcci%C3%B3n-jose-cordovilla-lkq6e/"
+excerpt: "La IA va a comprimir los márgenes del sector. Las pymes que no se adapten a los nuevos modelos de entrega desaparecerán."
+---
+
+![]({{ site.baseurl }}/assets/img/sme-pymes-cover-vortex-v3.png)
+*La IA redefiniendo las reglas del sector.*
+
+![]({{ site.baseurl }}/assets/img/sme-tres-pilares-estrategicos.svg)
+
+Hace unas semanas publiqué un [artículo](https://www.linkedin.com/pulse/la-guerra-fr%C3%ADa-de-las-consultoras-ii-jose-cordovilla-3mhue) sobre lo que llamé "la guerra fría de las consultoras": la tensión creciente entre consultoras generalistas e ingenierías especializadas, la consolidación acelerada del sector, y las primeras adquisiciones que están redibujando el mapa de la consultoría de infraestructuras. Cerré diciendo que era un momento fascinante para ser ingeniero y consultor, y bastante incómodo.
+
+Este artículo explora lo que significan estos movimientos tectónicos para las pymes que forman la gran masa de la producción de ingeniería y construcción en la mayoría de países. Y qué pueden hacer al respecto.
+
+Llevo la mayor parte de mi carrera en consultoría de infraestructuras, y aunque en los últimos años he visto cómo las fronteras entre consultoras de gestión, empresas tecnológicos e ingenierías se difuminaban, desde la irrupción de la inteligencia artificial este proceso se está acelerando vertiginosamente. Es un terreno que se mueve más rápido de lo que nadie puede cartografiar. Precisamente por ello hay que observar las dinámicas de fondo, principalmente tres fuerzas simultáneas que se refuerzan mutuamente: la absorción de capacidades, la automatización de procesos y la consolidación.
+#### Absorción
+
+Las empresas generalistas están comprando ingenierías, no porque les interese la ingeniería como tal, sino porque quieren acceso a conocimiento expertos, clientes, mercados y flujos de ingresos recurrentes. Consultoras tecnológicas que hace diez años no aparecían en ningún ranking de ingeniería cuentan hoy con capacidad técnica global comprada a firmas que pensaban que su expertise era suficiente. La pregunta incómoda, como apunté en mi artículo anterior es: **si tu conocimiento técnico es tan valioso, ¿por qué acabas siendo comprado por empresas que nunca han hecho lo que tú haces?**
+
+#### Automatización
+
+Los modelos de lenguaje ya redactan documentos técnicos estructurados como evaluaciones de impacto ambiental, memorias descriptivas o informes de consultoría, con una fiabilidad que hace tres años habría sido inimaginable. En mi propia empresa, los ingenieros trabajan con herramientas de IA generativa en producción: procesando informes de campo, integrando documentos con múltiples colaboradores, redactando informes con plantillas estandarizadas, etc. Todavía sigue siendo muy complicado medir la reducción en tiempos, pero incluso una reducción real del 30-40% en producción cambia fundamentalmente la economía de vender horas de servicios profesionales. Si el trabajo que requería 200 horas ahora requiere 120, **el modelo horario genera un 40% menos de ingresos por el mismo resultado**.
+
+#### Consolidación
+
+Las mega-ingenierías responden a la invasión generalista con escala: WSP, por ejemplo, ha invertido más de 7.500 millones de dólares en adquisiciones desde 2014. Pero escala no es diversificación: una ingeniería que factura 20.000 millones sigue siendo una ingeniería, con márgenes de ingeniería y una estructura orientada a proyectos. Esta consolidación polariza el mercado entre plataformas muy grandes integradas y pequeños especialistas, y las firmas atrapadas en el medio (demasiado grandes para ser ágiles, demasiado pequeñas para competir en escala) son las más expuestas.
+
+### La paradoja de la ingeniería como commodity
+
+Aquí es donde la mayoría de los artículos sobre transformación digital en el sector de la ingeniería se equivocan, y donde creo que está la verdadera cuestión estratégica. La narrativa convencional dice: si usas IA, serás más productivo y ganarás más contratos. La realidad para las pymes es más perversa: la IA que automatiza la producción técnica (cálculos, informes) erosiona precisamente lo que distinguía a las ingenierías de los consultores generalistas: **el trabajo técnico especializado**.
+
+> Si una parte sustancial de lo que producen los ingenieros puede automatizarse, el valor de la consultoría de ingeniería se desplaza de las horas de cálculo al juicio experto que enmarca ese cálculo. La evaluación de riesgo que cualifica el resultado. La relación con el cliente que traduce conclusiones técnicas en decisiones.
+
+En otras palabras, la IA empuja a las ingenierías hacia exactamente el terreno donde los generalistas siempre han sido más fuertes: estrategia, integración y consultoría estratégica, como analicé en La Guerra Fría de las Consultoras (II). **Esta es la paradoja: La tecnología que debería fortalecer a los especialistas los hace más vulnerables, salvo que cambien lo que venden**.
+
+Fijémonos bien: la IA no es diferenciadora en sí misma. Todo el mundo tendrá acceso a los mismos modelos avanzados tarde o temprano. El factor diferenciador es la combinación de **expertise propio y capacidad de operar con la IA**. Una empresa que conoce con alto grado de detalle cómo funcionan las plantas de tratamiento de agua y a la vez puede desplegar sistemas de IA para construir modelos predictivos a partir de su información acumulada está vendiendo algo que ni un consultor generalista ni una herramienta genérica de IA pueden replicar. El conocimiento profundo de un tema proporciona el contexto que hace valioso el resultado de las herramientas de IA. Esta tecnología amplifica el conocimiento experto para hacerlo un servicio escalable.
+
+Ahora bien, esto solo funciona si se invierte primero en el trabajo menos glamuroso. Aquí es donde la mayoría de las narrativas optimistas se vienen abajo.
+### Son las personas y las organizaciones
+
+Los resultados de las investigaciones recientes convergen: **el principal obstáculo para la adopción de IA de forma masiva no es la tecnología ni el presupuesto. Es la capacidad organizativa** ([Hansen et al., 2024](https://www.tandfonline.com/doi/full/10.1080/00207543.2024.2305800)). Solo el 1,5% de las empresas de arquitectura, ingeniería y construcción han integrado la IA en múltiples procesos. No el 15%. Ni siquiera el 5%. El uno y medio por ciento ([ASCE, 2025](https://www.asce.org/publications-and-news/civil-engineering-source/article/2025/12/18/architecture-engineering-construction-sector-slow-to-adapt-ai-survey-shows)). La brecha entre grandes y pequeñas es enorme: el 55% de las grandes empresas europeas usan IA, frente al 17% de las pequeñas ([OECD, 2025](https://www.oecd.org/en/publications/2025/12/ai-adoption-by-small-and-medium-sized-enterprises_9c48eae6.html)) y las habilidades de las personas, la dificultad para identificar casos de uso adecuados y la capacidad organizativa son factores limitantes que aparecen por encima del coste, sistemáticamente.
+
+En España, según un informe del Banco de España, la adopción de IA en empresas de construcción está por debajo del 10%. Y el informe cita que, de nuevo, el principal obstáculo citado (46%) no es el coste, sino la falta de personal cualificado. La literatura académica lo refuerza, y múltiples estudios señalan hacia una especie de círculo vicioso, donde las pymes necesitan asesoramiento experto para implantar la IA pero no pueden permitírselo, y además carecen de las capacidades internas para entender siquiera por dónde empezar (ver [*Management Review Quarterly*](https://link.springer.com/article/10.1007/s11301-024-00405-4), 2024; [*PLOS ONE*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323249), 2025).
+
+Y luego está la regulación. El Reglamento Europeo de IA introduce obligaciones de cumplimiento para sistemas de alto riesgo exigibles desde agosto de 2026. Las aplicaciones de ingeniería que afectan a decisiones críticas de seguridad en infraestructuras (análisis estructural, impacto ambiental, monitorización) probablemente caigan en la categoría de alto riesgo. El cumplimiento exige sistemas de gestión de riesgos, gobernanza de datos, protocolos de supervisión humana y documentación técnica. Las sanciones pueden alcanzan los 35 millones de euros o el 7% de la facturación global ([Reglamento UE 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng)). La ironía es que las empresas que más necesitan la IA para competir son las menos preparadas para cumplir con el marco regulatorio que las rodea.
+
+### De horas a resultados
+El continuo estancamiento de la productividad en el sector de construcción e ingeniería es algo tan real como sorprendente: un 1% de crecimiento anual durante veinte años, frente al 2,8% de la economía global. Si esta trayectoria continúa, la producción global de la industria de la construcción podría quedar 40 billones de dólares por debajo de la demanda para 2040, [según McKinsey](https://www.mckinsey.com/capabilities/operations/our-insights/delivering-on-construction-productivity-is-no-longer-optional). La inversión en tecnologías de la información en el sectores menos de un tercio que en automoción o aeroespacial. **En nuestro sector, no usamos las herramientas que tenemos disponibles.**
+
+Según McKinsey, los motivos son estructurales: aversión al riesgo, fragmentación y dificultad para atraer talento digital (McKinsey Global Institute). Nada que ver con la tecnología. Para las pymes, esto desplaza la pregunta de "¿qué tecnología debemos adoptar?" a algo más fundamental: **¿qué estoy vendiendo realmente y cómo debería cobrarlo?**
+
+![]({{ site.baseurl }}/assets/img/sme-cadena-valor-ciclo-vida.svg)
+
+El modelo tradicional --facturación por horas-- está estructuralmente desalineado con el valor que los servicios digitalizados aportan. Pensemos en BIM y los gemelos digitales, por ejemplo. La mayor parte de la inversión en modelos se produce durante el diseño, pero el principal valor se materializa durante la ejecución y explotación: menos problemas en obra, menores costes de mantenimiento, mejor información sobre el estado del activo a lo largo de décadas de vida útil (ver How BIM is Redefining Water). Las ingenierías que solo diseñen estarán renunciando a todo ese valor, mientras que las que vendan modelos de diseño como base para un servicio de ciclo de vida (monitorización, análisis, mantenimiento predictivo) estarán vendiendo resultados en lugar de horas. Eso es una propuesta de valor fundamentalmente diferente, y una relación comercial fundamentalmente distinta.
+
+El paso de la transacción ("el contrato") al ciclo de vida sigue una lógica concreta: el diseño es la base de la herramienta de operación; los datos operativos alimentan el análisis; el análisis genera el conocimiento predictivos que justifica ingresos recurrentes (suscripciones, incentivos por desempeño..). Cada etapa construye sobre la anterior, y toda la cadena depende de un cimiento que la mayoría de las empresas del sector todavía no tienen: **la interoperabilidad**. Cuando la información fluye sin fricciones entre fases del proyecto --diseño, construcción, explotación--, los beneficios son compuestos. Cuando no es así, cada fase arranca de cero, y el valor compuesto del ciclo de vida se evapora.
+
+No dispongo de datos objetivos sobre cuántas ingenierías han hecho esta transición, así que mi opinión es subjetiva. Estamos en una fase emergente, pero no me cabe duda de que la lógica es aplastante: Una empresa que acumula datos estructurados de calidad sobre decenas o centenares de proyectos (benchmarks de costes, patrones de fallo/deterioro, plazos reales, etc.) posee un activo que se revaloriza con cada encargo y que los competidores no pueden replicar fácilmente. La cuestión es si tratar esos datos como un subproducto de la entrega de un proyecto o como un producto en sí mismo.
+
+### Pero.. ¿cómo se hace? Con tres ejes de trabajo
+
+![]({{ site.baseurl }}/assets/img/sme-primeros-noventa-dias.svg)
+
+El punto de partida no es la tecnología. Es la **interoperabilidad**. La mayoría de las ingenierías ya tienen estandarizada la nomenclatura de proyectos y la estructura de archivos; es un requisito básico de cualquier sistema de gestión de calidad. El problema real es otro: veinte años de conocimiento acumulado (estimaciones de costes, informes de inspección, patrones de deterioro, correspondencia técnica) existen como archivos inertes, dispersos en formatos incompatibles que ningún sistema puede consultar de forma integrada. Un PDF puede ser un documento del que se extrae información con estructura y conexiones, o un escaneo de un papel impreso del que no se extrae nada útil. Los correos electrónicos pueden contener decisiones técnicas o comerciales críticas, pero están encerrados en bandejas de entrada sin metadatos que los vinculen a proyectos. Preparar esa información para que sea utilizable por la IA (estructurarla, normalizarla, conectarla entre fuentes) es un trabajo de ingeniería de datos que la mayoría de las empresas del sector ni siquiera han dimensionado (ver The construction sector's interoperability challenge). Y es la condición previa para todo lo demás.
+
+A partir de ahí, la pregunta no es "¿cómo adoptamos IA?" sino "¿dónde nos ayuda la IA genuinamente a hacer mejor lo que ya hacemos bien?" En la selección de casos de uso, **el problema no es elegir, sino descubrir antes.** El consejo habitual de "elige un proceso y haz un piloto" es correcto pero insuficiente, porque presupone que la empresa sabe lo que tiene. En la práctica, la mayoría no lo sabe. La capacidad de observar lo que se tiene y lo que la gente hace con esos datos y esos procesos, la "observabilidad" es fundamental para dirigir los esfuerzos. El verdadero primer paso no es seleccionar qué automatizar, sino hacer un inventario del estado real de la información acumulada: qué existe, en qué formato, con qué grado de consistencia, cómo se usa (si se usa) y qué haría falta para convertirla en algo que un modelo pueda consultar. Muchas empresas descubren en ese ejercicio que su ventaja competitiva (décadas de experiencia acumulada) existe solo en la cabeza de sus profesionales senior, no en sus sistemas.
+
+>  La mayoría de las empresas del sector descubren que su ventaja competitiva (décadas de experiencia acumulada) existe solo en la cabeza de sus profesionales, no en sus sistemas.
+
+En tercer lugar, **la colaboración es necesaria, pero no vale cualquiera.** Que las pymes deben buscar socios tecnológicos es evidente; lo que no es evidente es qué forma debe tener esa colaboración. Comprar licencias de software no resuelve el problema de los datos especialistas. Contratar especialistas en IA a tiempo completo es inviable para la mayoría. El modelo que se empieza a observar en la práctica se parece más a un trueque: la ingeniería o constructora aporta datos de dominio y conocimiento sectorial (su activo diferencial), y el socio tecnológico aporta la infraestructura de IA y la capacidad de desarrollo (las empresas de cierto tamaño como TYPSA ya integran ambas capacidades). La ingeniería retiene la propiedad del conocimiento y el socio tecnológico obtiene un caso de uso real con datos reales. Este modelo además distribuye el riesgo regulatorio: el socio gestiona el cumplimiento normativo de las herramientas, mientras la ingeniería gestiona el de la aplicación del conocimiento experto.
+
+### Ni optimismo ni resignación
+
+La narrativa tecno-optimista "adopta IA y todo irá bien" es tremendamente engañosa, porque ignora la realidad organizativa de las empresas del sector. Disponen de los perfiles profesionales de los que disponen y unos procesos generalmente rígidos, desarrollados a imagen y semejanza de unos procedimientos de contratación pública rígidos y con ciclos de maduración muy largos. Por otro lado, la normativa no distingue si tienes cincuenta empleados o cincuenta mil: las obligaciones de cumplimiento son las mismas.
+
+Pero la resignación y el escepticismo son igualmente engañosos. Los cambios y la consolidación que amenazan a las pymes también crean ventanas de oportunidad. Las mega-firmas son maquinaria pesada y burocrática. Su expertise tiende a diluirse a medida que crecen y sus relaciones con los clientes se vuelven transaccionales y tendentes a favorecer solo la escala. Una empresa mediana que es excelente en un ámbito, flexible en la ejecución y capaz de demostrar valor tangible tiene una propuesta que las grandes difícilmente igualan.
+
+Las empresas que sobrevivan la próxima década serán las que comprendan una verdad difícil: su producto principal --las horas de trabajo-- se está convirtiendo en commodity. La cuestión no es si aceptarlo, sino qué construir en su lugar. Creo que la respuesta pasa por una combinación de profundidad de conocimiento, gestión de los datos y resultados, pero llegar ahí exige una transformación profunda. No en tecnología, sino en cómo la firma piensa y se organiza.
+
+---
+
+*Borrador v1, febrero 2026. Versión española escrita desde cero --no traducida del inglés.*

@@ -126,6 +126,22 @@ article time {
   margin-bottom: 2rem;
 }
 
+/* === Also-on LinkedIn === */
+.also-on {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  margin-top: -1.5rem;
+  margin-bottom: 2rem;
+}
+
+.also-on a {
+  color: #999;
+}
+
+.also-on a:hover {
+  color: #6a4c3a;
+}
+
 /* === Blockquotes === */
 blockquote {
   border-left: 3px solid #c5b9a8;
@@ -260,6 +276,16 @@ a.external::after {
   content: " ↗";
   font-size: 0.75em;
   color: #bbb;
+}
+
+a.external.badge::after {
+  content: " ↗";
+  font-size: 0.7em;
+  color: #ccc;
+}
+
+a.badge {
+  text-decoration: none;
 }
 
 /* === Article List (dl) === */
