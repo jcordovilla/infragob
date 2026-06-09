@@ -11,6 +11,9 @@ I write about infrastructure governance, public-private partnerships and transpa
 
 <dl class="article-list">
 
+  <dt><span class="post-date">9 junio 2026</span> <a href="https://jcordovilla.github.io/curso-ia-generativa-profesionales/" class="external" target="_blank" rel="noopener">IA Generativa para Profesionales: curso práctico</a> <span class="lang-tag lang-es">Español</span></dt>
+  <dd>Un curso práctico para profesionales senior que quieren usar la IA con criterio y autonomía: siete módulos, desde entender los modelos hasta construir tu propio sistema. Sin necesidad de programar.</dd>
+
   <dt><span class="post-date">3 abril 2026</span> <a href="{{ site.baseurl }}/el-dilema-de-la-reversion/">El dilema de la reversión</a> <span class="lang-tag lang-es">Español</span> <a href="https://www.linkedin.com/pulse/el-dilema-de-la-reversi%C3%B3n-jose-cordovilla-qknve/" class="external badge" target="_blank" rel="noopener">LinkedIn</a></dt>
   <dd>Cuando una concesión entra en su fase final, la Administración se enfrenta a una decisión que revela su filosofía de gestión. En 2026, más de 1.000 km de autopistas españolas vuelven a gestión pública sin análisis objetivo alguno.</dd>
 
